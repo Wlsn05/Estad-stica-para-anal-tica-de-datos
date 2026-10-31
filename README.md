@@ -1,2 +1,2 @@
-# Estad-stica-para-anal-tica-de-datos
+# Estadistica-para-analitica-de-datos
 Proyecto SIVIGILA Gobernación de Boyacá 
